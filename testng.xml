@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Banking_SelHybridFwk">
+      <listeners> 
+		  <listener class-name ="com.banking.utilities.Reporting"/>
+	</listeners>
+       <parameter name = "browser" value = "chrome" /> 
+     <test name="Banking" parallel="classes" thread-count="1" >
+       <classes>
+		    <class name = "com.banking.testcase.TC_LoginTest_001"/>
+<!-- 		    <class name ="com.banking.testcase.TC_Login_DDT_002"/> -->
+		     <class name ="com.banking.testcase.TC_AddCustomerTest_003"/>  
+       </classes>
+  </test> <!-- Banking -->
+</suite> <!-- Banking_SelHybridFwk -->

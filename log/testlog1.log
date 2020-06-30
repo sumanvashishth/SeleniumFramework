@@ -1,0 +1,936 @@
+2020-06-09 16:30:06,098 [main] INFO Banking - URL is opened
+2020-06-09 16:30:06,320 [main] INFO Banking - Username entered
+2020-06-09 16:30:06,435 [main] INFO Banking - Password entered
+2020-06-09 16:30:06,443 [main] INFO Banking - TC Passed
+2020-06-10 12:05:33,725 [main] INFO Banking - URL is opened
+2020-06-10 12:05:34,050 [main] INFO Banking - Username entered
+2020-06-10 12:05:34,168 [main] INFO Banking - Password entered
+2020-06-10 12:05:34,177 [main] INFO Banking - TC Passed
+2020-06-10 12:07:10,966 [main] INFO Banking - URL is opened
+2020-06-10 12:07:11,122 [main] INFO Banking - Username entered
+2020-06-10 12:07:11,240 [main] INFO Banking - Password entered
+2020-06-10 12:07:11,247 [main] INFO Banking - TC Passed
+2020-06-10 12:52:02,073 [main] INFO Banking - URL is opened
+2020-06-10 12:52:02,271 [main] INFO Banking - Username entered
+2020-06-10 12:52:02,384 [main] INFO Banking - Password entered
+2020-06-10 12:52:02,393 [main] INFO Banking - TC Passed
+2020-06-10 12:52:18,473 [main] INFO Banking - URL is opened
+2020-06-10 12:52:18,628 [main] INFO Banking - Username entered
+2020-06-10 12:52:18,755 [main] INFO Banking - Password entered
+2020-06-10 12:52:18,762 [main] INFO Banking - TC Passed
+2020-06-10 13:36:23,476 [main] INFO Banking - URL is opened
+2020-06-10 13:36:23,637 [main] INFO Banking - Username entered
+2020-06-10 13:36:23,760 [main] INFO Banking - Password entered
+2020-06-10 13:36:23,767 [main] INFO Banking - TC Passed
+2020-06-10 13:37:47,969 [main] INFO Banking - URL is opened
+2020-06-10 13:37:48,158 [main] INFO Banking - Username entered
+2020-06-10 13:37:48,263 [main] INFO Banking - Password entered
+2020-06-10 13:37:48,270 [main] INFO Banking - TC Passed
+2020-06-10 13:48:11,811 [main] INFO Banking - URL is opened
+2020-06-10 13:51:35,163 [main] INFO Banking - URL is opened
+2020-06-10 13:51:35,567 [main] INFO Banking - Username entered
+2020-06-10 13:51:35,646 [main] INFO Banking - Password entered
+2020-06-10 13:51:35,652 [main] INFO Banking - TC Passed
+2020-06-10 13:56:00,246 [main] INFO Banking - URL is opened
+2020-06-10 13:56:00,425 [main] INFO Banking - Username entered
+2020-06-10 13:56:00,543 [main] INFO Banking - Password entered
+2020-06-10 13:56:00,552 [main] INFO Banking - TC Passed
+2020-06-10 13:56:35,225 [main] INFO Banking - URL is opened
+2020-06-10 13:56:35,437 [main] INFO Banking - Username entered
+2020-06-10 13:56:35,483 [main] INFO Banking - Password entered
+2020-06-10 13:56:35,509 [main] INFO Banking - TC Passed
+2020-06-10 17:13:29,399 [main] INFO Banking - URL is opened
+2020-06-10 17:13:29,556 [main] INFO Banking - Username entered
+2020-06-10 17:13:29,669 [main] INFO Banking - Password entered
+2020-06-10 17:13:29,677 [main] INFO Banking - TC Passed
+2020-06-10 17:15:30,322 [main] INFO Banking - URL is opened
+2020-06-10 17:15:30,488 [main] INFO Banking - Username entered
+2020-06-10 17:15:30,603 [main] INFO Banking - Password entered
+2020-06-10 17:15:30,611 [main] INFO Banking - TC Passed
+2020-06-10 17:17:05,259 [main] INFO Banking - URL is opened
+2020-06-10 17:17:05,406 [main] INFO Banking - Username entered
+2020-06-10 17:17:05,501 [main] INFO Banking - Password entered
+2020-06-10 17:17:05,508 [main] INFO Banking - TC Passed
+2020-06-10 17:19:23,498 [main] INFO Banking - URL is opened
+2020-06-10 17:19:23,658 [main] INFO Banking - Username entered
+2020-06-10 17:19:23,757 [main] INFO Banking - Password entered
+2020-06-10 17:19:23,768 [main] INFO Banking - TC Passed
+2020-06-10 17:20:39,651 [main] INFO Banking - URL is opened
+2020-06-10 17:20:39,814 [main] INFO Banking - Username entered
+2020-06-10 17:20:39,918 [main] INFO Banking - Password entered
+2020-06-10 17:20:39,924 [main] INFO Banking - TC Passed
+2020-06-10 17:21:58,520 [main] INFO Banking - URL is opened
+2020-06-10 17:21:58,670 [main] INFO Banking - Username entered
+2020-06-10 17:21:58,771 [main] INFO Banking - Password entered
+2020-06-10 17:21:58,781 [main] INFO Banking - TC Passed
+2020-06-11 14:27:29,910 [main] INFO Banking - URL is opened
+2020-06-11 14:27:30,554 [main] INFO Banking - Username entered
+2020-06-11 14:27:30,661 [main] INFO Banking - Password entered
+2020-06-11 14:27:30,670 [main] INFO Banking - TC Passed
+2020-06-11 14:31:07,213 [main] INFO Banking - URL is opened
+2020-06-11 14:31:07,410 [main] INFO Banking - Username entered
+2020-06-11 14:31:07,534 [main] INFO Banking - Password entered
+2020-06-11 14:32:27,891 [main] INFO Banking - URL is opened
+2020-06-11 14:32:28,112 [main] INFO Banking - Username entered
+2020-06-11 14:32:28,226 [main] INFO Banking - Password entered
+2020-06-11 14:33:21,798 [main] INFO Banking - URL is opened
+2020-06-11 14:33:21,961 [main] INFO Banking - Username entered
+2020-06-11 14:33:22,088 [main] INFO Banking - Password entered
+2020-06-11 14:39:51,179 [main] INFO Banking - URL is opened
+2020-06-11 14:39:51,348 [main] INFO Banking - Username entered
+2020-06-11 14:39:51,439 [main] INFO Banking - Password entered
+2020-06-11 14:57:59,708 [main] INFO Banking - URL is opened
+2020-06-11 14:57:59,880 [main] INFO Banking - Username entered
+2020-06-11 14:58:00,002 [main] INFO Banking - Password entered
+2020-06-11 15:02:03,950 [main] INFO Banking - URL is opened
+2020-06-11 15:02:04,108 [main] INFO Banking - Username entered
+2020-06-11 15:02:04,227 [main] INFO Banking - Password entered
+2020-06-11 15:03:41,627 [main] INFO Banking - URL is opened
+2020-06-11 15:03:41,802 [main] INFO Banking - Username entered
+2020-06-11 15:03:41,896 [main] INFO Banking - Password entered
+2020-06-11 15:04:46,639 [main] INFO Banking - URL is opened
+2020-06-11 15:04:46,804 [main] INFO Banking - Username entered
+2020-06-11 15:04:46,911 [main] INFO Banking - Password entered
+2020-06-11 15:14:05,744 [main] INFO Banking - URL is opened
+2020-06-11 15:14:05,901 [main] INFO Banking - Username entered
+2020-06-11 15:14:06,000 [main] INFO Banking - Password entered
+2020-06-11 15:27:37,929 [main] INFO Banking - URL is opened
+2020-06-11 15:27:38,102 [main] INFO Banking - Username entered
+2020-06-11 15:27:38,200 [main] INFO Banking - Password entered
+2020-06-11 15:40:44,716 [main] INFO Banking - URL is opened
+2020-06-11 15:40:44,922 [main] INFO Banking - Username entered
+2020-06-11 15:40:45,050 [main] INFO Banking - Password entered
+2020-06-11 15:55:13,414 [main] INFO Banking - URL is opened
+2020-06-11 15:55:13,577 [main] INFO Banking - Username entered
+2020-06-11 15:55:13,682 [main] INFO Banking - Password entered
+2020-06-11 15:57:34,872 [main] INFO Banking - URL is opened
+2020-06-11 15:57:35,027 [main] INFO Banking - Username entered
+2020-06-11 15:57:35,140 [main] INFO Banking - Password entered
+2020-06-11 16:04:35,539 [main] INFO Banking - URL is opened
+2020-06-11 16:04:35,754 [main] INFO Banking - Username entered
+2020-06-11 16:04:35,869 [main] INFO Banking - Password entered
+2020-06-11 16:06:16,215 [main] INFO Banking - URL is opened
+2020-06-11 16:06:16,370 [main] INFO Banking - Username entered
+2020-06-11 16:06:16,468 [main] INFO Banking - Password entered
+2020-06-11 16:10:14,582 [main] INFO Banking - URL is opened
+2020-06-11 16:10:14,758 [main] INFO Banking - Username entered
+2020-06-11 16:10:14,856 [main] INFO Banking - Password entered
+2020-06-11 16:11:16,546 [main] INFO Banking - URL is opened
+2020-06-11 16:11:16,698 [main] INFO Banking - Username entered
+2020-06-11 16:11:16,797 [main] INFO Banking - Password entered
+2020-06-11 16:12:43,536 [main] INFO Banking - URL is opened
+2020-06-11 16:12:43,747 [main] INFO Banking - Username entered
+2020-06-11 16:12:43,892 [main] INFO Banking - Password entered
+2020-06-11 16:14:11,630 [main] INFO Banking - URL is opened
+2020-06-11 16:14:11,789 [main] INFO Banking - Username entered
+2020-06-11 16:14:11,885 [main] INFO Banking - Password entered
+2020-06-11 16:15:43,793 [main] INFO Banking - URL is opened
+2020-06-11 16:15:43,956 [main] INFO Banking - Username entered
+2020-06-11 16:15:44,071 [main] INFO Banking - Password entered
+2020-06-11 16:18:20,327 [main] INFO Banking - URL is opened
+2020-06-11 16:18:20,534 [main] INFO Banking - Username entered
+2020-06-11 16:18:20,634 [main] INFO Banking - Password entered
+2020-06-11 16:25:07,796 [main] INFO Banking - URL is opened
+2020-06-11 16:25:07,956 [main] INFO Banking - Username entered
+2020-06-11 16:25:08,067 [main] INFO Banking - Password entered
+2020-06-11 16:27:08,299 [main] INFO Banking - URL is opened
+2020-06-11 16:27:08,484 [main] INFO Banking - Username entered
+2020-06-11 16:27:08,615 [main] INFO Banking - Password entered
+2020-06-11 16:27:53,414 [main] INFO Banking - URL is opened
+2020-06-11 16:27:53,584 [main] INFO Banking - Username entered
+2020-06-11 16:27:53,688 [main] INFO Banking - Password entered
+2020-06-11 16:27:53,704 [main] INFO Banking - TC Passed
+2020-06-11 16:29:30,281 [main] INFO Banking - URL is opened
+2020-06-11 16:29:30,444 [main] INFO Banking - Username entered
+2020-06-11 16:29:30,546 [main] INFO Banking - Password entered
+2020-06-11 16:29:30,553 [main] INFO Banking - TC Passed
+2020-06-11 16:31:37,225 [main] INFO Banking - URL is opened
+2020-06-11 16:31:37,388 [main] INFO Banking - Username entered
+2020-06-11 16:31:37,487 [main] INFO Banking - Password entered
+2020-06-11 16:31:37,496 [main] INFO Banking - TC Passed
+2020-06-11 16:33:33,328 [main] INFO Banking - URL is opened
+2020-06-11 16:33:33,499 [main] INFO Banking - Username entered
+2020-06-11 16:33:33,595 [main] INFO Banking - Password entered
+2020-06-11 16:33:33,602 [main] INFO Banking - TC Passed
+2020-06-11 16:36:14,383 [main] INFO Banking - URL is opened
+2020-06-11 16:36:14,524 [main] INFO Banking - Username entered
+2020-06-11 16:36:14,617 [main] INFO Banking - Password entered
+2020-06-11 16:36:14,629 [main] INFO Banking - TC Passed
+2020-06-11 16:38:27,801 [main] INFO Banking - URL is opened
+2020-06-11 16:38:27,946 [main] INFO Banking - Username entered
+2020-06-11 16:38:28,039 [main] INFO Banking - Password entered
+2020-06-11 16:38:28,045 [main] INFO Banking - TC Passed
+2020-06-11 16:59:45,541 [main] INFO Banking - URL is opened
+2020-06-11 16:59:45,744 [main] INFO Banking - Username entered
+2020-06-11 16:59:45,850 [main] INFO Banking - Password entered
+2020-06-11 16:59:45,858 [main] INFO Banking - TC Passed
+2020-06-11 17:00:57,674 [main] INFO Banking - URL is opened
+2020-06-11 17:00:57,859 [main] INFO Banking - Username entered
+2020-06-11 17:00:57,971 [main] INFO Banking - Password entered
+2020-06-11 17:02:58,359 [main] INFO Banking - URL is opened
+2020-06-11 17:02:58,523 [main] INFO Banking - Username entered
+2020-06-11 17:02:58,627 [main] INFO Banking - Password entered
+2020-06-11 17:04:22,129 [main] INFO Banking - URL is opened
+2020-06-11 17:04:22,306 [main] INFO Banking - Username entered
+2020-06-11 17:04:22,417 [main] INFO Banking - Password entered
+2020-06-11 17:34:31,189 [main] INFO Banking - URL is opened
+2020-06-11 17:34:31,386 [main] INFO Banking - Username entered
+2020-06-11 17:34:31,494 [main] INFO Banking - Password entered
+2020-06-11 17:35:49,021 [main] INFO Banking - URL is opened
+2020-06-11 17:35:49,178 [main] INFO Banking - Username entered
+2020-06-11 17:35:49,274 [main] INFO Banking - Password entered
+2020-06-11 17:36:25,660 [main] INFO Banking - URL is opened
+2020-06-11 17:36:25,824 [main] INFO Banking - Username entered
+2020-06-11 17:36:25,930 [main] INFO Banking - Password entered
+2020-06-11 17:37:22,049 [main] INFO Banking - URL is opened
+2020-06-11 17:37:22,217 [main] INFO Banking - Username entered
+2020-06-11 17:37:22,353 [main] INFO Banking - Password entered
+2020-06-11 17:40:19,178 [main] INFO Banking - URL is opened
+2020-06-11 17:40:19,333 [main] INFO Banking - Username entered
+2020-06-11 17:40:19,434 [main] INFO Banking - Password entered
+2020-06-11 18:19:27,270 [main] INFO Banking - URL is opened
+2020-06-11 18:19:27,438 [main] INFO Banking - Username entered
+2020-06-11 18:19:27,535 [main] INFO Banking - Password entered
+2020-06-11 18:20:43,634 [main] INFO Banking - URL is opened
+2020-06-11 18:20:43,783 [main] INFO Banking - Username entered
+2020-06-11 18:20:43,883 [main] INFO Banking - Password entered
+2020-06-11 18:20:43,896 [main] INFO Banking - TC Passed
+2020-06-11 22:47:51,901 [main] INFO Banking - URL is opened
+2020-06-11 22:47:52,505 [main] INFO Banking - Username entered
+2020-06-11 22:47:52,606 [main] INFO Banking - Password entered
+2020-06-11 22:47:52,616 [main] INFO Banking - TC Passed
+2020-06-11 23:12:26,015 [main] INFO Banking - URL is opened
+2020-06-11 23:12:26,196 [main] INFO Banking - Username entered
+2020-06-11 23:12:26,304 [main] INFO Banking - Password entered
+2020-06-11 23:12:26,313 [main] INFO Banking - TC Passed
+2020-06-12 12:38:24,463 [main] INFO Banking - URL is opened
+2020-06-12 12:38:25,042 [main] INFO Banking - Username entered
+2020-06-12 12:38:25,158 [main] INFO Banking - Password entered
+2020-06-12 12:38:25,165 [main] INFO Banking - TC Passed
+2020-06-12 13:05:00,762 [main] INFO Banking - URL is opened
+2020-06-12 13:05:01,135 [main] INFO Banking - Username entered
+2020-06-12 13:05:01,299 [main] INFO Banking - Password entered
+2020-06-12 13:06:11,878 [main] INFO Banking - URL is opened
+2020-06-12 13:06:12,076 [main] INFO Banking - Username entered
+2020-06-12 13:06:12,164 [main] INFO Banking - Password entered
+2020-06-12 13:11:04,689 [main] INFO Banking - URL is opened
+2020-06-12 13:11:04,842 [main] INFO Banking - Username entered
+2020-06-12 13:11:04,951 [main] INFO Banking - Password entered
+2020-06-12 13:12:41,217 [main] INFO Banking - URL is opened
+2020-06-12 13:12:41,894 [main] INFO Banking - Username entered
+2020-06-12 13:12:42,062 [main] INFO Banking - Password entered
+2020-06-12 13:16:05,955 [main] INFO Banking - URL is opened
+2020-06-12 13:16:06,124 [main] INFO Banking - Username entered
+2020-06-12 13:16:06,218 [main] INFO Banking - Password entered
+2020-06-12 13:20:20,566 [main] INFO Banking - URL is opened
+2020-06-12 13:20:20,796 [main] INFO Banking - Username entered
+2020-06-12 13:20:20,902 [main] INFO Banking - Password entered
+2020-06-12 13:26:25,993 [main] INFO Banking - URL is opened
+2020-06-12 13:26:26,238 [main] INFO Banking - Username entered
+2020-06-12 13:26:26,329 [main] INFO Banking - Password entered
+2020-06-12 13:27:41,018 [main] INFO Banking - URL is opened
+2020-06-12 13:27:41,193 [main] INFO Banking - Username entered
+2020-06-12 13:27:41,301 [main] INFO Banking - Password entered
+2020-06-12 13:31:00,081 [main] INFO Banking - URL is opened
+2020-06-12 13:31:00,270 [main] INFO Banking - Username entered
+2020-06-12 13:31:00,375 [main] INFO Banking - Password entered
+2020-06-12 13:35:18,518 [main] INFO Banking - URL is opened
+2020-06-12 13:35:18,668 [main] INFO Banking - Username entered
+2020-06-12 13:35:18,767 [main] INFO Banking - Password entered
+2020-06-12 13:36:12,918 [main] INFO Banking - URL is opened
+2020-06-12 13:36:13,061 [main] INFO Banking - Username entered
+2020-06-12 13:36:13,163 [main] INFO Banking - Password entered
+2020-06-12 13:40:56,781 [main] INFO Banking - URL is opened
+2020-06-12 13:40:56,936 [main] INFO Banking - Username entered
+2020-06-12 13:40:57,054 [main] INFO Banking - Password entered
+2020-06-12 13:43:02,617 [main] INFO Banking - URL is opened
+2020-06-12 13:43:02,760 [main] INFO Banking - Username entered
+2020-06-12 13:43:02,869 [main] INFO Banking - Password entered
+2020-06-12 13:44:39,813 [main] INFO Banking - URL is opened
+2020-06-12 13:44:39,965 [main] INFO Banking - Username entered
+2020-06-12 13:44:40,069 [main] INFO Banking - Password entered
+2020-06-12 14:13:23,035 [main] INFO Banking - URL is opened
+2020-06-12 14:13:23,180 [main] INFO Banking - Username entered
+2020-06-12 14:13:23,286 [main] INFO Banking - Password entered
+2020-06-12 15:37:53,879 [main] INFO Banking - URL is opened
+2020-06-12 15:37:54,025 [main] INFO Banking - Username entered
+2020-06-12 15:37:54,119 [main] INFO Banking - Password entered
+2020-06-12 15:39:10,768 [main] INFO Banking - URL is opened
+2020-06-12 15:39:10,932 [main] INFO Banking - Username entered
+2020-06-12 15:39:11,028 [main] INFO Banking - Password entered
+2020-06-12 15:50:53,763 [main] INFO Banking - URL is opened
+2020-06-12 15:50:53,909 [main] INFO Banking - Username entered
+2020-06-12 15:50:54,007 [main] INFO Banking - Password entered
+2020-06-12 15:52:05,887 [main] INFO Banking - URL is opened
+2020-06-12 15:52:06,040 [main] INFO Banking - Username entered
+2020-06-12 15:52:06,135 [main] INFO Banking - Password entered
+2020-06-12 16:00:28,763 [main] INFO Banking - URL is opened
+2020-06-12 16:00:28,905 [main] INFO Banking - Username entered
+2020-06-12 16:00:29,000 [main] INFO Banking - Password entered
+2020-06-12 16:02:37,615 [main] INFO Banking - URL is opened
+2020-06-12 16:02:37,771 [main] INFO Banking - Username entered
+2020-06-12 16:02:37,870 [main] INFO Banking - Password entered
+2020-06-12 16:13:30,078 [main] INFO Banking - URL is opened
+2020-06-12 16:13:30,239 [main] INFO Banking - Username entered
+2020-06-12 16:13:30,337 [main] INFO Banking - Password entered
+2020-06-12 16:16:26,184 [main] INFO Banking - URL is opened
+2020-06-12 16:16:26,341 [main] INFO Banking - Username entered
+2020-06-12 16:16:26,441 [main] INFO Banking - Password entered
+2020-06-12 16:20:10,426 [main] INFO Banking - URL is opened
+2020-06-12 16:20:10,566 [main] INFO Banking - Username entered
+2020-06-12 16:20:10,666 [main] INFO Banking - Password entered
+2020-06-15 13:33:23,679 [main] INFO Banking - URL is opened
+2020-06-15 13:33:23,957 [main] INFO Banking - Username entered
+2020-06-15 13:33:24,135 [main] INFO Banking - Password entered
+2020-06-15 13:34:46,788 [main] INFO Banking - URL is opened
+2020-06-15 13:34:46,951 [main] INFO Banking - Username entered
+2020-06-15 13:34:47,051 [main] INFO Banking - Password entered
+2020-06-15 13:37:02,473 [main] INFO Banking - URL is opened
+2020-06-15 13:37:02,627 [main] INFO Banking - Username entered
+2020-06-15 13:37:02,737 [main] INFO Banking - Password entered
+2020-06-15 17:14:54,741 [main] INFO Banking - URL is opened
+2020-06-15 17:14:55,109 [main] INFO Banking - Username entered
+2020-06-15 17:14:55,205 [main] INFO Banking - Password entered
+2020-06-15 17:21:40,814 [main] INFO Banking - Usrname entered
+2020-06-15 17:21:40,907 [main] INFO Banking - Password entered
+2020-06-15 17:21:45,610 [main] INFO Banking - Login Passed
+2020-06-17 14:20:02,262 [main] INFO Banking - Usrname entered
+2020-06-17 14:20:03,064 [main] INFO Banking - Password entered
+2020-06-17 14:20:07,333 [main] INFO Banking - Login Passed
+2020-06-17 14:20:11,461 [main] INFO Banking - Usrname entered
+2020-06-17 14:20:11,556 [main] INFO Banking - Password entered
+2020-06-17 14:20:16,039 [main] INFO Banking - Login Failed
+2020-06-17 14:20:18,568 [main] INFO Banking - Usrname entered
+2020-06-17 14:20:18,682 [main] INFO Banking - Password entered
+2020-06-17 14:20:23,443 [main] INFO Banking - Login Failed
+2020-06-17 14:20:25,368 [main] INFO Banking - Usrname entered
+2020-06-17 14:20:25,485 [main] INFO Banking - Password entered
+2020-06-17 14:20:28,926 [main] INFO Banking - Login Passed
+2020-06-17 14:20:32,177 [main] INFO Banking - Usrname entered
+2020-06-17 14:20:32,277 [main] INFO Banking - Password entered
+2020-06-17 14:20:36,737 [main] INFO Banking - Login Failed
+2020-06-17 14:22:15,320 [main] INFO Banking - Usrname entered
+2020-06-17 14:22:15,503 [main] INFO Banking - Password entered
+2020-06-17 14:22:19,551 [main] INFO Banking - Login Passed
+2020-06-17 14:25:57,789 [main] INFO Banking - Usrname entered
+2020-06-17 14:25:58,542 [main] INFO Banking - Password entered
+2020-06-17 14:26:02,864 [main] INFO Banking - Login Passed
+2020-06-17 14:26:08,175 [main] INFO Banking - Usrname entered
+2020-06-17 14:26:08,267 [main] INFO Banking - Password entered
+2020-06-17 14:26:13,067 [main] INFO Banking - Login Failed
+2020-06-17 14:26:16,149 [main] INFO Banking - Usrname entered
+2020-06-17 14:26:16,295 [main] INFO Banking - Password entered
+2020-06-17 14:26:20,858 [main] INFO Banking - Login Failed
+2020-06-17 14:26:24,524 [main] INFO Banking - Usrname entered
+2020-06-17 14:26:24,637 [main] INFO Banking - Password entered
+2020-06-17 14:26:28,584 [main] INFO Banking - Login Passed
+2020-06-17 14:26:34,233 [main] INFO Banking - Usrname entered
+2020-06-17 14:26:34,337 [main] INFO Banking - Password entered
+2020-06-17 14:26:38,878 [main] INFO Banking - Login Failed
+2020-06-17 14:31:49,581 [main] INFO Banking - URL is opened
+2020-06-17 14:31:49,748 [main] INFO Banking - Username entered
+2020-06-17 14:31:49,844 [main] INFO Banking - Password entered
+2020-06-17 14:31:55,814 [main] INFO Banking - Usrname entered
+2020-06-17 14:31:56,033 [main] INFO Banking - Password entered
+2020-06-17 14:31:59,030 [main] INFO Banking - Login Passed
+2020-06-17 14:32:05,280 [main] INFO Banking - Usrname entered
+2020-06-17 14:32:05,369 [main] INFO Banking - Password entered
+2020-06-17 14:32:09,965 [main] INFO Banking - Login Failed
+2020-06-17 14:32:13,033 [main] INFO Banking - Usrname entered
+2020-06-17 14:32:13,123 [main] INFO Banking - Password entered
+2020-06-17 14:32:17,632 [main] INFO Banking - Login Failed
+2020-06-17 14:32:20,491 [main] INFO Banking - Usrname entered
+2020-06-17 14:32:20,603 [main] INFO Banking - Password entered
+2020-06-17 14:32:24,109 [main] INFO Banking - Login Passed
+2020-06-17 14:37:23,620 [main] INFO Banking - URL is opened
+2020-06-17 14:37:23,799 [main] INFO Banking - Username entered
+2020-06-17 14:37:23,982 [main] INFO Banking - Password entered
+2020-06-17 14:37:24,012 [main] INFO Banking - TC Passed
+2020-06-17 14:37:32,990 [main] INFO Banking - Usrname entered
+2020-06-17 14:37:33,147 [main] INFO Banking - Password entered
+2020-06-17 14:37:36,914 [main] INFO Banking - Login Passed
+2020-06-17 14:37:43,009 [main] INFO Banking - Usrname entered
+2020-06-17 14:37:43,111 [main] INFO Banking - Password entered
+2020-06-17 14:37:47,897 [main] INFO Banking - Login Failed
+2020-06-17 14:37:51,622 [main] INFO Banking - Usrname entered
+2020-06-17 14:37:51,727 [main] INFO Banking - Password entered
+2020-06-17 14:37:56,196 [main] INFO Banking - Login Failed
+2020-06-17 14:37:59,798 [main] INFO Banking - Usrname entered
+2020-06-17 14:37:59,914 [main] INFO Banking - Password entered
+2020-06-17 14:38:03,469 [main] INFO Banking - Login Passed
+2020-06-17 14:38:08,639 [main] INFO Banking - Usrname entered
+2020-06-17 14:38:08,756 [main] INFO Banking - Password entered
+2020-06-17 14:38:13,382 [main] INFO Banking - Login Failed
+2020-06-17 14:42:41,554 [main] INFO Banking - URL is opened
+2020-06-17 14:42:41,697 [main] INFO Banking - Username entered
+2020-06-17 14:42:41,808 [main] INFO Banking - Password entered
+2020-06-17 14:42:41,837 [main] INFO Banking - TC Passed
+2020-06-17 14:43:59,921 [main] INFO Banking - URL is opened
+2020-06-17 14:44:00,067 [main] INFO Banking - Username entered
+2020-06-17 14:44:00,191 [main] INFO Banking - Password entered
+2020-06-17 14:44:00,216 [main] INFO Banking - TC Passed
+2020-06-17 14:44:09,293 [main] INFO Banking - Usrname entered
+2020-06-17 14:44:09,431 [main] INFO Banking - Password entered
+2020-06-17 14:44:12,416 [main] INFO Banking - Login Passed
+2020-06-17 14:44:17,980 [main] INFO Banking - Usrname entered
+2020-06-17 14:44:18,076 [main] INFO Banking - Password entered
+2020-06-17 14:44:23,028 [main] INFO Banking - Login Failed
+2020-06-17 14:44:26,295 [main] INFO Banking - Usrname entered
+2020-06-17 14:44:26,388 [main] INFO Banking - Password entered
+2020-06-17 14:44:31,240 [main] INFO Banking - Login Failed
+2020-06-17 14:44:34,530 [main] INFO Banking - Usrname entered
+2020-06-17 14:44:34,620 [main] INFO Banking - Password entered
+2020-06-17 14:44:38,600 [main] INFO Banking - Login Passed
+2020-06-17 14:44:45,143 [main] INFO Banking - Usrname entered
+2020-06-17 14:44:45,253 [main] INFO Banking - Password entered
+2020-06-17 14:44:49,771 [main] INFO Banking - Login Failed
+2020-06-17 15:38:36,711 [main] INFO Banking - URL is opened
+2020-06-17 15:38:36,862 [main] INFO Banking - Username entered
+2020-06-17 15:38:36,956 [main] INFO Banking - Password entered
+2020-06-17 15:38:36,991 [main] INFO Banking - TC Passed
+2020-06-17 15:38:47,039 [main] INFO Banking - Usrname entered
+2020-06-17 15:38:47,137 [main] INFO Banking - Password entered
+2020-06-17 15:38:51,614 [main] INFO Banking - Login Passed
+2020-06-17 15:38:57,892 [main] INFO Banking - Usrname entered
+2020-06-17 15:38:57,979 [main] INFO Banking - Password entered
+2020-06-17 15:39:02,561 [main] INFO Banking - Login Failed
+2020-06-17 15:39:06,314 [main] INFO Banking - Usrname entered
+2020-06-17 15:39:06,426 [main] INFO Banking - Password entered
+2020-06-17 15:39:10,952 [main] INFO Banking - Login Failed
+2020-06-17 15:42:20,977 [main] INFO Banking - Usrname entered
+2020-06-17 15:42:21,076 [main] INFO Banking - Password entered
+2020-06-17 15:42:23,831 [main] INFO Banking - Login Passed
+2020-06-17 15:42:29,345 [main] INFO Banking - Usrname entered
+2020-06-17 15:42:29,438 [main] INFO Banking - Password entered
+2020-06-17 15:44:20,335 [main] INFO Banking - Usrname entered
+2020-06-17 15:44:20,462 [main] INFO Banking - Password entered
+2020-06-17 15:44:24,673 [main] INFO Banking - Login Passed
+2020-06-17 15:46:03,398 [main] INFO Banking - Usrname entered
+2020-06-17 15:46:03,532 [main] INFO Banking - Password entered
+2020-06-17 15:46:08,177 [main] INFO Banking - Login Passed
+2020-06-17 15:46:13,435 [main] INFO Banking - Usrname entered
+2020-06-17 15:46:13,540 [main] INFO Banking - Password entered
+2020-06-17 15:46:18,161 [main] INFO Banking - Login Failed
+2020-06-17 15:46:22,936 [main] INFO Banking - Usrname entered
+2020-06-17 15:46:23,048 [main] INFO Banking - Password entered
+2020-06-17 15:46:27,913 [main] INFO Banking - Login Failed
+2020-06-17 15:46:32,321 [main] INFO Banking - Usrname entered
+2020-06-17 15:46:32,426 [main] INFO Banking - Password entered
+2020-06-17 15:46:36,353 [main] INFO Banking - Login Passed
+2020-06-17 15:46:41,726 [main] INFO Banking - Usrname entered
+2020-06-17 15:46:41,837 [main] INFO Banking - Password entered
+2020-06-17 15:46:46,344 [main] INFO Banking - Login Failed
+2020-06-17 15:49:12,892 [main] INFO Banking - URL is opened
+2020-06-17 15:49:13,073 [main] INFO Banking - Username entered
+2020-06-17 15:49:13,201 [main] INFO Banking - Password entered
+2020-06-17 15:49:13,229 [main] INFO Banking - TC Passed
+2020-06-17 15:49:21,953 [main] INFO Banking - Usrname entered
+2020-06-17 15:49:22,125 [main] INFO Banking - Password entered
+2020-06-17 15:49:26,194 [main] INFO Banking - Login Passed
+2020-06-17 15:49:31,642 [main] INFO Banking - Usrname entered
+2020-06-17 15:49:31,742 [main] INFO Banking - Password entered
+2020-06-17 15:49:36,197 [main] INFO Banking - Login Failed
+2020-06-17 15:49:40,384 [main] INFO Banking - Usrname entered
+2020-06-17 15:49:40,490 [main] INFO Banking - Password entered
+2020-06-17 15:49:45,264 [main] INFO Banking - Login Failed
+2020-06-17 15:49:49,562 [main] INFO Banking - Usrname entered
+2020-06-17 15:49:49,670 [main] INFO Banking - Password entered
+2020-06-17 15:49:53,786 [main] INFO Banking - Login Passed
+2020-06-17 15:50:00,126 [main] INFO Banking - Usrname entered
+2020-06-17 15:50:00,285 [main] INFO Banking - Password entered
+2020-06-17 15:50:05,159 [main] INFO Banking - Login Failed
+2020-06-17 15:58:50,550 [main] INFO Banking - URL is opened
+2020-06-17 15:58:50,712 [main] INFO Banking - Username entered
+2020-06-17 15:58:50,821 [main] INFO Banking - Password entered
+2020-06-17 15:58:50,873 [main] INFO Banking - TC Passed
+2020-06-17 15:58:59,461 [main] INFO Banking - Usrname entered
+2020-06-17 15:58:59,563 [main] INFO Banking - Password entered
+2020-06-17 15:59:03,577 [main] INFO Banking - Login Passed
+2020-06-17 15:59:09,323 [main] INFO Banking - Usrname entered
+2020-06-17 15:59:09,427 [main] INFO Banking - Password entered
+2020-06-17 15:59:13,895 [main] INFO Banking - Login Failed
+2020-06-17 15:59:18,330 [main] INFO Banking - Usrname entered
+2020-06-17 15:59:18,432 [main] INFO Banking - Password entered
+2020-06-17 16:00:16,985 [main] INFO Banking - URL is opened
+2020-06-17 16:00:17,148 [main] INFO Banking - Username entered
+2020-06-17 16:00:17,262 [main] INFO Banking - Password entered
+2020-06-17 16:00:17,289 [main] INFO Banking - TC Passed
+2020-06-17 16:00:26,264 [main] INFO Banking - Usrname entered
+2020-06-17 16:00:26,494 [main] INFO Banking - Password entered
+2020-06-17 16:00:30,604 [main] INFO Banking - Login Passed
+2020-06-17 16:00:36,416 [main] INFO Banking - Usrname entered
+2020-06-17 16:00:36,509 [main] INFO Banking - Password entered
+2020-06-17 16:00:40,995 [main] INFO Banking - Login Failed
+2020-06-17 16:00:45,329 [main] INFO Banking - Usrname entered
+2020-06-17 16:00:45,426 [main] INFO Banking - Password entered
+2020-06-17 16:00:50,332 [main] INFO Banking - Login Failed
+2020-06-17 16:00:55,152 [main] INFO Banking - Usrname entered
+2020-06-17 16:00:55,263 [main] INFO Banking - Password entered
+2020-06-17 16:00:59,500 [main] INFO Banking - Login Passed
+2020-06-17 16:01:04,973 [main] INFO Banking - Usrname entered
+2020-06-17 16:01:05,068 [main] INFO Banking - Password entered
+2020-06-17 16:01:09,535 [main] INFO Banking - Login Failed
+2020-06-17 16:08:36,205 [main] INFO Banking - URL is opened
+2020-06-17 16:08:36,375 [main] INFO Banking - Username entered
+2020-06-17 16:08:36,480 [main] INFO Banking - Password entered
+2020-06-17 16:08:36,510 [main] INFO Banking - TC Passed
+2020-06-17 16:08:46,053 [main] INFO Banking - Usrname entered
+2020-06-17 16:08:46,167 [main] INFO Banking - Password entered
+2020-06-17 16:08:50,239 [main] INFO Banking - Login Passed
+2020-06-17 16:11:26,092 [main] INFO Banking - URL is opened
+2020-06-17 16:11:26,290 [main] INFO Banking - Username entered
+2020-06-17 16:11:26,411 [main] INFO Banking - Password entered
+2020-06-17 16:11:26,437 [main] INFO Banking - TC Passed
+2020-06-17 16:11:36,285 [main] INFO Banking - Usrname entered
+2020-06-17 16:11:36,460 [main] INFO Banking - Password entered
+2020-06-17 16:11:39,176 [main] INFO Banking - Login Passed
+2020-06-17 16:11:45,968 [main] INFO Banking - Usrname entered
+2020-06-17 16:11:46,066 [main] INFO Banking - Password entered
+2020-06-17 16:11:50,556 [main] INFO Banking - Login Failed
+2020-06-17 16:11:54,772 [main] INFO Banking - Usrname entered
+2020-06-17 16:11:54,937 [main] INFO Banking - Password entered
+2020-06-17 16:11:59,466 [main] INFO Banking - Login Failed
+2020-06-17 16:12:04,380 [main] INFO Banking - Usrname entered
+2020-06-17 16:12:04,486 [main] INFO Banking - Password entered
+2020-06-17 16:12:08,062 [main] INFO Banking - Login Passed
+2020-06-17 16:12:14,258 [main] INFO Banking - Usrname entered
+2020-06-17 16:12:14,352 [main] INFO Banking - Password entered
+2020-06-17 16:12:19,187 [main] INFO Banking - Login Failed
+2020-06-17 16:19:03,533 [main] INFO Banking - URL is opened
+2020-06-17 16:19:03,717 [main] INFO Banking - Username entered
+2020-06-17 16:19:03,839 [main] INFO Banking - Password entered
+2020-06-17 16:19:03,871 [main] INFO Banking - TC Passed
+2020-06-17 16:21:18,455 [main] INFO Banking - URL is opened
+2020-06-17 16:21:18,790 [main] INFO Banking - Username entered
+2020-06-17 16:21:19,078 [main] INFO Banking - Password entered
+2020-06-17 16:23:15,767 [main] INFO Banking - URL is opened
+2020-06-17 16:23:15,950 [main] INFO Banking - Username entered
+2020-06-17 16:23:16,052 [main] INFO Banking - Password entered
+2020-06-17 16:25:32,539 [main] INFO Banking - URL is opened
+2020-06-17 16:25:32,732 [main] INFO Banking - Username entered
+2020-06-17 16:25:32,843 [main] INFO Banking - Password entered
+2020-06-17 16:26:40,946 [main] INFO Banking - URL is opened
+2020-06-17 16:26:41,160 [main] INFO Banking - Username entered
+2020-06-17 16:26:41,272 [main] INFO Banking - Password entered
+2020-06-17 16:28:53,581 [main] INFO Banking - URL is opened
+2020-06-17 16:28:53,756 [main] INFO Banking - Username entered
+2020-06-17 16:28:53,859 [main] INFO Banking - Password entered
+2020-06-17 16:38:19,200 [main] INFO Banking - URL is opened
+2020-06-17 16:38:19,363 [main] INFO Banking - Username entered
+2020-06-17 16:38:19,477 [main] INFO Banking - Password entered
+2020-06-17 16:40:45,197 [main] INFO Banking - URL is opened
+2020-06-17 16:40:45,360 [main] INFO Banking - Username entered
+2020-06-17 16:40:45,482 [main] INFO Banking - Password entered
+2020-06-17 16:40:46,941 [main] INFO Banking - TC Passed
+2020-06-17 16:41:46,709 [main] INFO Banking - URL is opened
+2020-06-17 16:41:46,865 [main] INFO Banking - Username entered
+2020-06-17 16:41:46,973 [main] INFO Banking - Password entered
+2020-06-17 16:44:08,283 [main] INFO Banking - URL is opened
+2020-06-17 16:44:08,441 [main] INFO Banking - Username entered
+2020-06-17 16:44:08,545 [main] INFO Banking - Password entered
+2020-06-17 17:01:23,967 [main] INFO Banking - URL is opened
+2020-06-17 17:01:24,167 [main] INFO Banking - Username entered
+2020-06-17 17:01:24,275 [main] INFO Banking - Password entered
+2020-06-17 17:02:04,794 [main] INFO Banking - URL is opened
+2020-06-17 17:02:04,967 [main] INFO Banking - Username entered
+2020-06-17 17:02:05,071 [main] INFO Banking - Password entered
+2020-06-17 17:08:35,575 [main] INFO Banking - URL is opened
+2020-06-17 17:08:35,736 [main] INFO Banking - Username entered
+2020-06-17 17:08:35,848 [main] INFO Banking - Password entered
+2020-06-17 17:12:17,195 [main] INFO Banking - URL is opened
+2020-06-17 17:12:17,358 [main] INFO Banking - Username entered
+2020-06-17 17:12:17,466 [main] INFO Banking - Password entered
+2020-06-17 17:53:50,531 [main] INFO Banking - URL is opened
+2020-06-17 17:53:50,803 [main] INFO Banking - Username entered
+2020-06-17 17:53:50,896 [main] INFO Banking - Password entered
+2020-06-17 17:56:26,046 [main] INFO Banking - URL is opened
+2020-06-17 17:56:26,295 [main] INFO Banking - Username entered
+2020-06-17 17:56:26,429 [main] INFO Banking - Password entered
+2020-06-17 18:01:13,694 [main] INFO Banking - URL is opened
+2020-06-17 18:01:13,971 [main] INFO Banking - Username entered
+2020-06-17 18:01:14,076 [main] INFO Banking - Password entered
+2020-06-17 18:03:30,101 [main] INFO Banking - URL is opened
+2020-06-17 18:03:30,252 [main] INFO Banking - Username entered
+2020-06-17 18:03:30,348 [main] INFO Banking - Password entered
+2020-06-17 18:06:35,492 [main] INFO Banking - URL is opened
+2020-06-17 18:06:37,187 [main] INFO Banking - Username entered
+2020-06-17 18:06:37,314 [main] INFO Banking - Password entered
+2020-06-17 18:09:53,537 [main] INFO Banking - URL is opened
+2020-06-17 18:09:53,778 [main] INFO Banking - Username entered
+2020-06-17 18:09:53,953 [main] INFO Banking - Password entered
+2020-06-17 18:11:23,017 [main] INFO Banking - URL is opened
+2020-06-17 18:11:23,177 [main] INFO Banking - Username entered
+2020-06-17 18:11:23,281 [main] INFO Banking - Password entered
+2020-06-19 13:29:38,859 [main] INFO Banking - URL is opened
+2020-06-19 13:29:39,793 [main] INFO Banking - Username entered
+2020-06-19 13:29:39,942 [main] INFO Banking - Password entered
+2020-06-19 13:30:44,675 [main] INFO Banking - URL is opened
+2020-06-19 13:30:44,887 [main] INFO Banking - Username entered
+2020-06-19 13:30:45,016 [main] INFO Banking - Password entered
+2020-06-19 13:36:48,639 [main] INFO Banking - URL is opened
+2020-06-19 13:36:48,839 [main] INFO Banking - Username entered
+2020-06-19 13:36:48,945 [main] INFO Banking - Password entered
+2020-06-19 13:39:26,705 [main] INFO Banking - URL is opened
+2020-06-19 13:39:26,864 [main] INFO Banking - Username entered
+2020-06-19 13:39:26,976 [main] INFO Banking - Password entered
+2020-06-19 13:40:39,247 [main] INFO Banking - URL is opened
+2020-06-19 13:40:39,414 [main] INFO Banking - Username entered
+2020-06-19 13:40:39,522 [main] INFO Banking - Password entered
+2020-06-19 13:41:01,228 [main] INFO Banking - URL is opened
+2020-06-19 13:41:01,448 [main] INFO Banking - Username entered
+2020-06-19 13:41:01,558 [main] INFO Banking - Password entered
+2020-06-21 13:57:31,709 [main] INFO Banking - URL is opened
+2020-06-21 13:58:51,853 [main] INFO Banking - URL is opened
+2020-06-21 13:58:52,201 [main] INFO Banking - Username entered
+2020-06-21 13:58:52,303 [main] INFO Banking - Password entered
+2020-06-21 14:01:22,159 [main] INFO Banking - URL is opened
+2020-06-21 14:01:22,346 [main] INFO Banking - Username entered
+2020-06-21 14:01:22,477 [main] INFO Banking - Password entered
+2020-06-21 14:03:34,833 [main] INFO Banking - URL is opened
+2020-06-21 14:03:34,980 [main] INFO Banking - Username entered
+2020-06-21 14:03:35,099 [main] INFO Banking - Password entered
+2020-06-21 14:08:33,655 [main] INFO Banking - Usrname entered
+2020-06-21 14:08:34,024 [main] INFO Banking - Password entered
+2020-06-21 14:08:37,802 [main] INFO Banking - Login Passed
+2020-06-21 14:08:43,771 [main] INFO Banking - Usrname entered
+2020-06-21 14:08:43,871 [main] INFO Banking - Password entered
+2020-06-21 14:08:48,438 [main] INFO Banking - Login Failed
+2020-06-21 14:10:43,674 [main] INFO Banking - URL is opened
+2020-06-21 14:10:43,860 [main] INFO Banking - Username entered
+2020-06-21 14:10:43,996 [main] INFO Banking - Password entered
+2020-06-21 14:11:22,400 [main] INFO Banking - URL is opened
+2020-06-21 14:11:22,585 [main] INFO Banking - Username entered
+2020-06-21 14:11:22,684 [main] INFO Banking - Password entered
+2020-06-21 14:12:52,376 [main] INFO Banking - URL is opened
+2020-06-21 14:12:52,523 [main] INFO Banking - Username entered
+2020-06-21 14:12:52,626 [main] INFO Banking - Password entered
+2020-06-21 14:14:13,072 [main] INFO Banking - URL is opened
+2020-06-21 14:14:13,244 [main] INFO Banking - Username entered
+2020-06-21 14:14:13,374 [main] INFO Banking - Password entered
+2020-06-21 14:14:13,400 [main] INFO Banking - TC Passed
+2020-06-21 14:15:58,803 [main] INFO Banking - Usrname entered
+2020-06-21 14:15:58,941 [main] INFO Banking - Password entered
+2020-06-21 14:16:02,832 [main] INFO Banking - Login Passed
+2020-06-21 14:16:08,891 [main] INFO Banking - Usrname entered
+2020-06-21 14:16:08,997 [main] INFO Banking - Password entered
+2020-06-21 14:16:13,746 [main] INFO Banking - Login Failed
+2020-06-21 14:16:18,033 [main] INFO Banking - Usrname entered
+2020-06-21 14:16:18,135 [main] INFO Banking - Password entered
+2020-06-21 14:16:22,874 [main] INFO Banking - Login Failed
+2020-06-21 14:16:26,864 [main] INFO Banking - Usrname entered
+2020-06-21 14:16:26,971 [main] INFO Banking - Password entered
+2020-06-21 14:16:30,854 [main] INFO Banking - Login Passed
+2020-06-21 14:16:37,707 [main] INFO Banking - Usrname entered
+2020-06-21 14:16:37,801 [main] INFO Banking - Password entered
+2020-06-21 14:16:42,285 [main] INFO Banking - Login Failed
+2020-06-21 14:19:49,015 [main] INFO Banking - URL is opened
+2020-06-21 14:19:49,182 [main] INFO Banking - Username entered
+2020-06-21 14:19:49,299 [main] INFO Banking - Password entered
+2020-06-21 14:19:49,326 [main] INFO Banking - TC Passed
+2020-06-21 14:20:50,021 [main] INFO Banking - URL is opened
+2020-06-21 14:20:50,191 [main] INFO Banking - Username entered
+2020-06-21 14:20:50,298 [main] INFO Banking - Password entered
+2020-06-21 14:20:50,325 [main] INFO Banking - TC Passed
+2020-06-21 14:26:20,904 [main] INFO Banking - URL is opened
+2020-06-21 14:26:21,067 [main] INFO Banking - Username entered
+2020-06-21 14:26:21,199 [main] INFO Banking - Password entered
+2020-06-21 14:26:21,217 [main] INFO Banking - TC Passed
+2020-06-21 14:37:20,989 [main] INFO Banking - URL is opened
+2020-06-21 14:37:21,153 [main] INFO Banking - Username entered
+2020-06-21 14:37:21,259 [main] INFO Banking - Password entered
+2020-06-21 14:37:21,287 [main] INFO Banking - TC Passed
+2020-06-21 14:37:58,100 [main] INFO Banking - URL is opened
+2020-06-21 14:37:58,275 [main] INFO Banking - Username entered
+2020-06-21 14:37:58,401 [main] INFO Banking - Password entered
+2020-06-21 14:38:27,103 [main] INFO Banking - URL is opened
+2020-06-21 14:38:27,404 [main] INFO Banking - Username entered
+2020-06-21 14:38:27,574 [main] INFO Banking - Password entered
+2020-06-21 14:51:43,038 [pool-1-thread-1] INFO Banking - URL is opened
+2020-06-21 14:51:43,214 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-21 14:51:43,335 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-21 14:54:45,837 [pool-1-thread-1] INFO Banking - URL is opened
+2020-06-21 14:54:45,993 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-21 14:54:46,102 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-22 13:09:45,432 [pool-1-thread-1] INFO Banking - URL is opened
+2020-06-22 13:09:46,760 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-22 13:09:47,707 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-22 13:20:12,983 [pool-1-thread-1] INFO Banking - URL is opened
+2020-06-22 13:20:13,135 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-22 13:20:13,257 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-22 13:24:12,776 [pool-1-thread-1] INFO Banking - URL is opened
+2020-06-22 13:24:12,931 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-22 13:24:13,048 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-22 13:44:11,095 [pool-1-thread-1] INFO Banking - URL is opened
+2020-06-22 13:44:11,248 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-22 13:44:11,355 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-22 13:45:05,607 [pool-1-thread-1] INFO Banking - URL is opened
+2020-06-22 13:45:05,763 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-22 13:45:05,857 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-22 13:45:14,065 [pool-1-thread-1] INFO Banking - Usrname entered
+2020-06-22 13:45:14,193 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-22 13:45:18,597 [pool-1-thread-1] INFO Banking - Login Passed
+2020-06-22 13:45:25,551 [pool-1-thread-1] INFO Banking - Usrname entered
+2020-06-22 13:45:25,687 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-22 13:45:30,177 [pool-1-thread-1] INFO Banking - Login Failed
+2020-06-22 13:45:35,392 [pool-1-thread-1] INFO Banking - Usrname entered
+2020-06-22 13:45:35,485 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-22 13:45:40,261 [pool-1-thread-1] INFO Banking - Login Failed
+2020-06-22 13:45:44,913 [pool-1-thread-1] INFO Banking - Usrname entered
+2020-06-22 13:45:45,014 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-22 13:45:48,715 [pool-1-thread-1] INFO Banking - Login Passed
+2020-06-22 13:45:55,147 [pool-1-thread-1] INFO Banking - Usrname entered
+2020-06-22 13:45:55,264 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-22 13:46:00,081 [pool-1-thread-1] INFO Banking - Login Failed
+2020-06-22 15:56:31,138 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-22 15:56:31,238 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-22 15:56:33,207 [pool-1-thread-1] INFO Banking - Login
+2020-06-22 15:57:53,636 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-22 15:57:53,737 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-22 15:57:55,743 [pool-1-thread-1] INFO Banking - Login
+2020-06-22 15:59:18,515 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-22 15:59:18,631 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-22 15:59:20,720 [pool-1-thread-1] INFO Banking - Login
+2020-06-22 16:01:41,425 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-22 16:01:41,543 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-22 16:01:43,865 [pool-1-thread-1] INFO Banking - Login
+2020-06-22 16:01:48,527 [pool-1-thread-1] INFO Banking - Providing customer details
+2020-06-22 16:03:57,541 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-22 16:03:57,654 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-22 16:03:59,796 [pool-1-thread-1] INFO Banking - Login
+2020-06-22 16:04:03,999 [pool-1-thread-1] INFO Banking - Providing customer details
+2020-06-22 16:05:01,126 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-22 16:05:01,258 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-22 16:05:03,498 [pool-1-thread-1] INFO Banking - Login
+2020-06-22 16:05:07,689 [pool-1-thread-1] INFO Banking - Providing customer details
+2020-06-22 16:07:20,109 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-22 16:07:20,214 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-22 16:07:22,717 [pool-1-thread-1] INFO Banking - Login
+2020-06-22 16:07:27,166 [pool-1-thread-1] INFO Banking - Providing customer details
+2020-06-22 16:07:43,316 [pool-1-thread-1] INFO Banking - test case passed
+2020-06-23 14:33:49,711 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-23 14:33:50,136 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-23 14:33:52,644 [pool-1-thread-1] INFO Banking - Login
+2020-06-23 14:33:57,358 [pool-1-thread-1] INFO Banking - Providing customer details
+2020-06-23 14:34:14,098 [pool-1-thread-1] INFO Banking - test case passed
+2020-06-23 14:35:08,365 [pool-1-thread-1] INFO Banking - URL is opened
+2020-06-23 14:35:08,521 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-23 14:35:08,627 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-23 14:35:17,673 [pool-1-thread-1] INFO Banking - Usrname entered
+2020-06-23 14:35:17,773 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-23 14:35:20,692 [pool-1-thread-1] INFO Banking - Login Passed
+2020-06-23 14:35:28,505 [pool-1-thread-1] INFO Banking - Usrname entered
+2020-06-23 14:35:28,591 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-23 14:35:33,233 [pool-1-thread-1] INFO Banking - Login Failed
+2020-06-23 14:35:37,485 [pool-1-thread-1] INFO Banking - Usrname entered
+2020-06-23 14:35:37,579 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-23 14:35:42,369 [pool-1-thread-1] INFO Banking - Login Failed
+2020-06-23 14:35:46,671 [pool-1-thread-1] INFO Banking - Usrname entered
+2020-06-23 14:35:46,775 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-23 14:35:50,960 [pool-1-thread-1] INFO Banking - Login Passed
+2020-06-23 14:35:58,030 [pool-1-thread-1] INFO Banking - Usrname entered
+2020-06-23 14:35:58,119 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-23 14:36:02,719 [pool-1-thread-1] INFO Banking - Login Failed
+2020-06-23 14:36:13,751 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-23 14:36:13,849 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-23 14:36:16,218 [pool-1-thread-1] INFO Banking - Login
+2020-06-23 14:36:20,333 [pool-1-thread-1] INFO Banking - Providing customer details
+2020-06-23 14:36:36,860 [pool-1-thread-1] INFO Banking - test case passed
+2020-06-23 14:47:47,108 [pool-1-thread-1] INFO Banking - URL is opened
+2020-06-23 14:48:28,650 [pool-1-thread-1] INFO Banking - URL is opened
+2020-06-23 14:48:28,831 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-23 14:48:28,942 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-23 14:48:37,305 [pool-1-thread-1] INFO Banking - Usrname entered
+2020-06-23 14:48:37,438 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-23 14:48:42,126 [pool-1-thread-1] INFO Banking - Login Passed
+2020-06-23 14:48:48,730 [pool-1-thread-1] INFO Banking - Usrname entered
+2020-06-23 14:48:48,820 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-23 14:48:53,368 [pool-1-thread-1] INFO Banking - Login Failed
+2020-06-23 14:48:58,801 [pool-1-thread-1] INFO Banking - Usrname entered
+2020-06-23 14:48:58,896 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-23 14:49:03,464 [pool-1-thread-1] INFO Banking - Login Failed
+2020-06-23 14:49:08,112 [pool-1-thread-1] INFO Banking - Usrname entered
+2020-06-23 14:49:08,247 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-23 14:49:12,263 [pool-1-thread-1] INFO Banking - Login Passed
+2020-06-23 14:49:19,743 [pool-1-thread-1] INFO Banking - Usrname entered
+2020-06-23 14:49:19,846 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-23 14:49:24,313 [pool-1-thread-1] INFO Banking - Login Failed
+2020-06-23 14:49:34,227 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-23 14:49:34,346 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-23 14:49:36,009 [pool-1-thread-1] INFO Banking - Login
+2020-06-23 14:49:40,045 [pool-1-thread-1] INFO Banking - Providing customer details
+2020-06-23 14:55:50,304 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-23 14:55:50,401 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-23 14:55:52,794 [pool-1-thread-1] INFO Banking - Login
+2020-06-23 14:55:56,768 [pool-1-thread-1] INFO Banking - Providing customer details
+2020-06-23 14:56:12,825 [pool-1-thread-1] INFO Banking - test case passed
+2020-06-23 14:58:03,517 [pool-1-thread-1] INFO Banking - URL is opened
+2020-06-23 14:58:03,662 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-23 14:58:03,760 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-23 14:58:13,155 [pool-1-thread-1] INFO Banking - Usrname entered
+2020-06-23 14:58:13,301 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-23 14:58:17,821 [pool-1-thread-1] INFO Banking - Login Passed
+2020-06-23 14:58:25,393 [pool-1-thread-1] INFO Banking - Usrname entered
+2020-06-23 14:58:25,490 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-23 14:58:30,075 [pool-1-thread-1] INFO Banking - Login Failed
+2020-06-23 14:58:34,786 [pool-1-thread-1] INFO Banking - Usrname entered
+2020-06-23 14:58:34,953 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-23 14:58:39,825 [pool-1-thread-1] INFO Banking - Login Failed
+2020-06-23 14:58:44,790 [pool-1-thread-1] INFO Banking - Usrname entered
+2020-06-23 14:58:44,983 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-23 14:58:48,786 [pool-1-thread-1] INFO Banking - Login Passed
+2020-06-23 14:58:56,539 [pool-1-thread-1] INFO Banking - Usrname entered
+2020-06-23 14:58:56,657 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-23 14:59:01,531 [pool-1-thread-1] INFO Banking - Login Failed
+2020-06-23 14:59:11,683 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-23 14:59:11,870 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-23 14:59:13,931 [pool-1-thread-1] INFO Banking - Login
+2020-06-23 14:59:18,031 [pool-1-thread-1] INFO Banking - Providing customer details
+2020-06-23 14:59:34,602 [pool-1-thread-1] INFO Banking - test case passed
+2020-06-23 15:05:33,924 [pool-1-thread-1] INFO Banking - URL is opened
+2020-06-23 15:36:06,222 [pool-1-thread-1] INFO Banking - URL is opened
+2020-06-23 15:36:06,384 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-23 15:36:06,514 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-23 15:36:07,963 [pool-1-thread-1] INFO Banking - TC Passed
+2020-06-23 15:36:17,376 [pool-1-thread-1] INFO Banking - Usrname entered
+2020-06-23 15:36:17,507 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-23 15:36:21,845 [pool-1-thread-1] INFO Banking - Login Passed
+2020-06-23 15:36:28,473 [pool-1-thread-1] INFO Banking - Usrname entered
+2020-06-23 15:36:28,591 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-23 15:36:33,087 [pool-1-thread-1] INFO Banking - Login Failed
+2020-06-23 15:36:38,775 [pool-1-thread-1] INFO Banking - Usrname entered
+2020-06-23 15:36:38,908 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-23 15:36:43,430 [pool-1-thread-1] INFO Banking - Login Failed
+2020-06-23 15:36:47,897 [pool-1-thread-1] INFO Banking - Usrname entered
+2020-06-23 15:36:47,999 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-23 15:36:51,626 [pool-1-thread-1] INFO Banking - Login Passed
+2020-06-23 15:36:57,750 [pool-1-thread-1] INFO Banking - Usrname entered
+2020-06-23 15:36:57,855 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-23 15:37:02,416 [pool-1-thread-1] INFO Banking - Login Failed
+2020-06-23 15:37:10,956 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-23 15:37:11,063 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-23 15:37:12,996 [pool-1-thread-1] INFO Banking - Login
+2020-06-23 15:37:17,119 [pool-1-thread-1] INFO Banking - Providing customer details
+2020-06-23 15:37:33,553 [pool-1-thread-1] INFO Banking - test case passed
+2020-06-23 15:47:16,878 [pool-1-thread-1] INFO Banking - URL is opened
+2020-06-23 15:47:17,117 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-23 15:47:17,243 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-23 15:47:19,515 [pool-1-thread-1] INFO Banking - TC Passed
+2020-06-23 15:47:28,680 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-23 15:47:28,791 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-23 15:47:31,208 [pool-1-thread-1] INFO Banking - Login
+2020-06-23 15:47:35,250 [pool-1-thread-1] INFO Banking - Providing customer details
+2020-06-23 16:13:13,841 [pool-1-thread-1] INFO Banking - URL is opened
+2020-06-23 16:13:13,995 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-23 16:13:14,094 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-23 16:13:16,350 [pool-1-thread-1] INFO Banking - TC Passed
+2020-06-23 16:13:25,550 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-23 16:13:25,651 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-23 16:13:28,406 [pool-1-thread-1] INFO Banking - Login
+2020-06-23 16:13:32,969 [pool-1-thread-1] INFO Banking - Providing customer details
+2020-06-23 16:13:49,335 [pool-1-thread-1] INFO Banking - test case passed
+2020-06-23 19:10:06,129 [pool-1-thread-1] INFO Banking - URL is opened
+2020-06-23 19:10:06,417 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-23 19:10:06,551 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-23 19:10:08,642 [pool-1-thread-1] INFO Banking - TC Passed
+2020-06-23 19:47:07,340 [pool-1-thread-1] INFO Banking - URL is opened
+2020-06-23 19:47:07,502 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-23 19:47:07,611 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-23 19:47:09,521 [pool-1-thread-1] INFO Banking - TC Passed
+2020-06-25 14:53:14,960 [pool-1-thread-1] INFO Banking - URL is opened
+2020-06-25 14:53:15,442 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-25 14:53:15,550 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-25 14:53:17,277 [pool-1-thread-1] INFO Banking - TC Passed
+2020-06-26 14:25:40,726 [pool-1-thread-1] INFO Banking - URL is opened
+2020-06-26 14:25:41,188 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-26 14:25:41,278 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-26 14:25:42,854 [pool-1-thread-1] INFO Banking - TC Passed
+2020-06-26 14:42:11,836 [pool-1-thread-1] INFO Banking - URL is opened
+2020-06-26 14:42:12,010 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-26 14:42:12,089 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-26 14:42:20,383 [pool-1-thread-1] INFO Banking - Usrname entered
+2020-06-26 14:42:20,475 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-26 14:42:24,566 [pool-1-thread-1] INFO Banking - Login Passed
+2020-06-26 14:42:31,576 [pool-1-thread-1] INFO Banking - Usrname entered
+2020-06-26 14:42:31,648 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-26 14:42:36,265 [pool-1-thread-1] INFO Banking - Login Failed
+2020-06-26 14:42:41,047 [pool-1-thread-1] INFO Banking - Usrname entered
+2020-06-26 14:42:41,125 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-26 14:42:46,078 [pool-1-thread-1] INFO Banking - Login Failed
+2020-06-26 14:42:50,319 [pool-1-thread-1] INFO Banking - Usrname entered
+2020-06-26 14:42:50,405 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-26 14:42:54,030 [pool-1-thread-1] INFO Banking - Login Passed
+2020-06-26 14:43:00,584 [pool-1-thread-1] INFO Banking - Usrname entered
+2020-06-26 14:43:00,663 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-26 14:43:05,232 [pool-1-thread-1] INFO Banking - Login Failed
+2020-06-26 14:43:15,018 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-26 14:43:15,095 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-26 14:43:17,037 [pool-1-thread-1] INFO Banking - Login
+2020-06-26 14:43:21,265 [pool-1-thread-1] INFO Banking - Providing customer details
+2020-06-26 14:45:14,198 [pool-1-thread-1] INFO Banking - URL is opened
+2020-06-26 14:45:14,393 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-26 14:45:14,474 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-26 14:45:21,668 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-26 14:45:21,759 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-26 14:45:23,938 [pool-1-thread-1] INFO Banking - Login
+2020-06-26 14:45:27,813 [pool-1-thread-1] INFO Banking - Providing customer details
+2020-06-26 14:48:37,919 [pool-1-thread-1] INFO Banking - URL is opened
+2020-06-26 14:48:38,060 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-26 14:48:38,143 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-26 14:48:40,102 [pool-1-thread-1] INFO Banking - TC Passed
+2020-06-26 14:48:47,772 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-26 14:48:47,877 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-26 14:48:50,226 [pool-1-thread-1] INFO Banking - Login
+2020-06-26 14:48:54,021 [pool-1-thread-1] INFO Banking - Providing customer details
+2020-06-26 14:52:08,804 [pool-1-thread-1] INFO Banking - URL is opened
+2020-06-26 14:52:08,986 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-26 14:52:09,069 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-26 14:52:11,259 [pool-1-thread-1] INFO Banking - TC Passed
+2020-06-26 15:36:12,473 [pool-1-thread-1] INFO Banking - URL is opened
+2020-06-26 15:36:12,634 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-26 15:36:12,716 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-26 15:36:15,372 [pool-1-thread-1] INFO Banking - TC Passed
+2020-06-26 15:36:23,494 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-26 15:36:23,583 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-26 15:36:25,917 [pool-1-thread-1] INFO Banking - Login
+2020-06-26 15:36:29,832 [pool-1-thread-1] INFO Banking - Providing customer details
+2020-06-26 15:38:00,091 [pool-1-thread-1] INFO Banking - URL is opened
+2020-06-26 15:38:00,219 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-26 15:38:00,308 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-26 15:38:01,903 [pool-1-thread-1] INFO Banking - TC Passed
+2020-06-26 15:38:10,164 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-26 15:38:10,245 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-26 15:38:12,543 [pool-1-thread-1] INFO Banking - Login
+2020-06-26 15:38:16,798 [pool-1-thread-1] INFO Banking - Providing customer details
+2020-06-26 16:06:13,183 [pool-1-thread-1] INFO Banking - URL is opened
+2020-06-26 16:06:13,617 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-26 16:06:13,943 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-26 16:06:16,192 [pool-1-thread-1] INFO Banking - TC Passed
+2020-06-26 16:06:24,816 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-26 16:06:25,043 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-26 16:06:26,840 [pool-1-thread-1] INFO Banking - Login
+2020-06-26 16:06:31,168 [pool-1-thread-1] INFO Banking - Providing customer details
+2020-06-26 16:09:31,019 [pool-1-thread-1] INFO Banking - URL is opened
+2020-06-26 16:09:31,187 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-26 16:09:31,270 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-26 16:09:33,652 [pool-1-thread-1] INFO Banking - TC Passed
+2020-06-26 16:09:41,641 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-26 16:09:41,721 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-26 16:09:43,885 [pool-1-thread-1] INFO Banking - Login
+2020-06-26 16:09:48,205 [pool-1-thread-1] INFO Banking - Providing customer details
+2020-06-26 16:10:29,837 [pool-1-thread-1] INFO Banking - URL is opened
+2020-06-26 16:10:29,983 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-26 16:10:30,088 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-26 16:10:32,826 [pool-1-thread-1] INFO Banking - TC Passed
+2020-06-26 16:10:41,189 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-26 16:10:41,288 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-26 16:10:43,538 [pool-1-thread-1] INFO Banking - Login
+2020-06-26 16:10:47,142 [pool-1-thread-1] INFO Banking - Providing customer details
+2020-06-26 16:12:11,074 [pool-1-thread-1] INFO Banking - URL is opened
+2020-06-26 16:12:11,240 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-26 16:12:11,353 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-26 16:12:13,867 [pool-1-thread-1] INFO Banking - TC Passed
+2020-06-26 16:12:22,778 [pool-1-thread-1] INFO Banking - Username entered
+2020-06-26 16:12:22,906 [pool-1-thread-1] INFO Banking - Password entered
+2020-06-26 16:12:24,907 [pool-1-thread-1] INFO Banking - Login
+2020-06-26 16:12:28,971 [pool-1-thread-1] INFO Banking - Providing customer details
+2020-06-26 16:12:48,442 [pool-1-thread-1] INFO Banking - test case passed

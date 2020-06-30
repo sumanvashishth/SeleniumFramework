@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Banking_SelHybridFwk" duration-ms="43464" started-at="2020-06-26T10:42:04Z" finished-at="2020-06-26T10:42:48Z">
+    <groups>
+    </groups>
+    <test name="Banking" duration-ms="43464" started-at="2020-06-26T10:42:04Z" finished-at="2020-06-26T10:42:48Z">
+      <class name="com.banking.testcase.TC_LoginTest_001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.banking.testcase.TC_LoginTest_001@29774679]" name="setup" is-config="true" duration-ms="5800" started-at="2020-06-26T16:12:05Z" finished-at="2020-06-26T16:12:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="logintest()[pri:0, instance:com.banking.testcase.TC_LoginTest_001@29774679]" name="logintest" duration-ms="2785" started-at="2020-06-26T16:12:11Z" finished-at="2020-06-26T16:12:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="verify()[pri:0, instance:com.banking.testcase.TC_LoginTest_001@29774679]" name="verify" duration-ms="3014" started-at="2020-06-26T16:12:13Z" finished-at="2020-06-26T16:12:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.banking.testcase.TC_LoginTest_001@29774679]" name="teardown" is-config="true" duration-ms="2" started-at="2020-06-26T16:12:16Z" finished-at="2020-06-26T16:12:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.banking.testcase.TC_LoginTest_001 -->
+      <class name="com.banking.testcase.TC_AddCustomerTest_003">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.banking.testcase.TC_AddCustomerTest_003@3ffc5af1]" name="setup" is-config="true" duration-ms="5677" started-at="2020-06-26T16:12:16Z" finished-at="2020-06-26T16:12:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addnewcustomer()[pri:0, instance:com.banking.testcase.TC_AddCustomerTest_003@3ffc5af1]" name="addnewcustomer" duration-ms="25890" started-at="2020-06-26T16:12:22Z" finished-at="2020-06-26T16:12:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addnewcustomer -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.banking.testcase.TC_AddCustomerTest_003@3ffc5af1]" name="teardown" is-config="true" duration-ms="0" started-at="2020-06-26T16:12:48Z" finished-at="2020-06-26T16:12:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.banking.testcase.TC_AddCustomerTest_003 -->
+    </test> <!-- Banking -->
+  </suite> <!-- Banking_SelHybridFwk -->
+</testng-results>

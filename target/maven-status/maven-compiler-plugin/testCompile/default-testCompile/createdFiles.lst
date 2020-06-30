@@ -1,0 +1,12 @@
+com/banking/pageobjects/LoginPage.class
+com/banking/testcase/TC_Login_DDT_002.class
+com/banking/utilities/XLUtils.class
+com/banking/utilities/ReadConfig.class
+com/banking/testcase/BaseClass.class
+com/banking/testcase/TC_AddCustomerTest_003.class
+com/banking/testcase/TC_LoginTest_001.class
+com/pract/excel.class
+com/pract/test.class
+com/banking/utilities/Reporting.class
+com/banking/pageobjects/AddCustomer.class
+com/pract/extentreports.class
